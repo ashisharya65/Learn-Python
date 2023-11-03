@@ -1,2 +1,2 @@
 # Learn-Python
-This contains all my learnings with Python
+This contains all my learnings with Python.
