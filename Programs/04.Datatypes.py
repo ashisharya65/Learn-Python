@@ -40,3 +40,4 @@ for i in range(97,118):
 print("\nSecond way of printing all the variable values using chr() & globals() functions.")
 for i in range(97,118):
     print(f"Value of {chr(i)}: {globals()[chr(i)]}")
+
